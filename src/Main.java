@@ -4,7 +4,7 @@ import java.util.List;
 public class Main {
 
     public static void main(String[] args) {
-example();
+        example();
     }
 
     private static void example() {
